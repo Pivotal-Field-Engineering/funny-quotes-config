@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Pivotal-Field-Engineering/json-schema/master/scs-config-schema.json",
+    "git": {
+        "uri": "https://github.com/Pivotal-Field-Engineering/funny-quotes-config.git"
+    },
+    "encrypt": {
+        "key": "theforce"
+    }
+}
